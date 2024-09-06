@@ -16,7 +16,7 @@ The Hundred is a novel cricket format introduced by the England and Wales Cricke
 
 ## Data
 
-The data used in this project was sourced from cricsheet.org, covering matches from the 2021-2023 seasons of The Hundred.
+The data used in this project was sourced from cricsheet.org, covering matches from the 2021-2023 seasons of The Hundred. Link: https://cricsheet.org/downloads/hnd_json.zip
 
 ## Methodology
 
