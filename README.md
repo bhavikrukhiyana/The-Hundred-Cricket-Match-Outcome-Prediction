@@ -51,7 +51,24 @@ The data used in this project was sourced from cricsheet.org, covering matches f
 
 ## Usage
 
+This project consists of several Jupyter notebooks that guide you through the process of data extraction, exploration, feature engineering, and model development for The Hundred cricket match outcome prediction.
 
+1. **Data Extraction**:
+   - Run `Extracting Data from JSON files.ipynb` to extract match details from JSON files and create a DataFrame.
+   - This script generates `hundreds_extracted_data_with_match_stats.csv`, which is used in subsequent steps.
+
+2. **Initial Exploratory Data Analysis**:
+   - Execute `Exploring Features For Computing Performance Probability.ipynb` for initial insights and analysis.
+
+3. **Feature Engineering and Performance Probability Calculation**:
+   - Run `Final Features for Calculating Performance Probability - Batsmen, Bowlers, Team - 1.ipynb` for computing probability scores on batting and bowling performance for both male and female players.
+   - Follow up with `Final Features for Calculating Performance Probability - Batsmen, Bowlers, Team - 2.ipynb` for team performance probability scores.
+
+4. **Visualizations**:
+   - Use `Visualizations.ipynb` to generate key visualizations for the project.
+
+5. **Model Development and Evaluation**:
+   - Execute `Final Model & Validation.ipynb` for model development, analysis visualizations, and evaluation on 2024 match data.
 
 ## Contributors
 
